@@ -21,9 +21,9 @@ input {
     text-align: right;
 }
 
-#menu {
+.menu {
     border-style: solid;
-    border-color: black;
+    border-color: white;
     color: white;
     background: burlywood;
     display: flex;
